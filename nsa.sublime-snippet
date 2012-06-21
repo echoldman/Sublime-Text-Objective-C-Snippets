@@ -1,7 +1,0 @@
-<snippet>
-    <content><![CDATA[
-NSArray 
-]]></content>
-    <tabTrigger>nsa</tabTrigger>
-    <scope>source.objc</scope>
-</snippet>
