@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+@synthesize ${1:Property};${2:Wrap}
+]]></content>
+    <tabTrigger>s</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>
