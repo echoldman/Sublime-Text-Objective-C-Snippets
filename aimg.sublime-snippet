@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+[UIImage imageNamed:@"${1:image}"]${2:tab to here}
+]]></content>
+    <tabTrigger>aimg</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>
