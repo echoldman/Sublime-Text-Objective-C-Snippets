@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+#pragma mark - ${1:Title}
+
+]]></content>
+    <tabTrigger>mark</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>
