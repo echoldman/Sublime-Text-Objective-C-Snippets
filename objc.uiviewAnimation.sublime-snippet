@@ -1,0 +1,30 @@
+<snippet>
+    <content><![CDATA[
+- (void)${1:Animaton Name}WillStart:(NSString *)animationID context:(void *)context
+{
+    ${2:/* Insert code here. */}
+}
+
+- (void)${3:Animaton Name}DidStop:(NSString *)animationID finished:(NSNumber *)finished context:(void *)context
+{
+    ${4:/* Insert code here. */}
+}
+
+- (${5:void})${6:Animaton Method Name}
+{
+    [UIView beginAnimations:@"${7:Animation name string}" context:${8:Context Object}];
+    [UIView setAnimationCurve:${9:Curve Type}];
+    [UIView setAnimationDuration:${10:Duration}];
+    [UIView setAnimationDelegate:${11:Delegate}];
+    [UIView setAnimationWillStartSelector:${12:Selector}];
+    [UIView setAnimationDidStopSelector:${13:Selector}];
+    
+    ${14:/* Set the transform here. */}
+
+    [UIView commitAnimations];
+}
+
+]]></content>
+    <tabTrigger>uiviewAnimation</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>

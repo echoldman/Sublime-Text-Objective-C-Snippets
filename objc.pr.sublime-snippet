@@ -2,6 +2,6 @@
     <content><![CDATA[
 @property (nonatomic, retain) ${1:Class} *${2:Object};${3:Wrap}
 ]]></content>
-    <tabTrigger>p</tabTrigger>
+    <tabTrigger>pr</tabTrigger>
     <scope>source.objc</scope>
 </snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+@property (nonatomic, assign) ${1:Class} *${2:Object};${3:Wrap}
+]]></content>
+    <tabTrigger>pa</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>
