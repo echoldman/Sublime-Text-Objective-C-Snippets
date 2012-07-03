@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+NSMutableDictionary *${1:dictionary} = [[NSMutableDictionary alloc] init];${2:}
+]]></content>
+    <tabTrigger>emptyDictionary</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>
