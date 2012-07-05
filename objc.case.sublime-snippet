@@ -1,10 +1,10 @@
 <snippet>
     <content><![CDATA[
-else if ( ${1:condition} ) {
+case ${1:constant}:
     ${2:/* statements */}
-} // End: ${1:condition}
-${3:}
+    break;
+${3:other case}
 ]]></content>
-    <tabTrigger>elif</tabTrigger>
+    <tabTrigger>case</tabTrigger>
     <scope>source.objc</scope>
 </snippet>

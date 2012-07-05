@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+switch ( ${1:expression} ) {
+    ${2:first case}
+    default:${3:}
+        break;
+} // End: ${1:expression}${4:}
+]]></content>
+    <tabTrigger>switch</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>

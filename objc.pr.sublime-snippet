@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-@property (nonatomic, retain) ${1:Class} *${2:Object};${3:Wrap}
+@property (nonatomic, retain) ${1:<# Class #>} *${2:<# Object #>};${3:<# Tab to #>}
 ]]></content>
     <tabTrigger>pr</tabTrigger>
     <scope>source.objc</scope>
