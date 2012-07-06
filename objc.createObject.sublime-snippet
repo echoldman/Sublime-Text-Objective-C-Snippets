@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+${1:<# Class #>} *${2:<# Object #>} = [[${1:<# Class #>} alloc] ${3:init}];${4: ->|}
+]]></content>
+    <tabTrigger>createObject</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>

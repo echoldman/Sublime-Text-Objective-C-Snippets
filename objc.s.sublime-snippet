@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-@synthesize ${1:Property};${2:Wrap}
+@synthesize ${1:Property};${2: ->|}
 ]]></content>
     <tabTrigger>s</tabTrigger>
     <scope>source.objc</scope>
