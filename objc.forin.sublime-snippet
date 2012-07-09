@@ -2,7 +2,7 @@
     <content><![CDATA[
 for ( ${1:<# Class #>} *${2:<# Object #>} in ${3:<# Collection #>} ) {
     ${4:/* statements */}
-} // End: ${2:<# Object #>} in ${3:<# Collection #>}
+} // End: ${2:<# Object #>} in ${3:<# Collection #>}${5: ->|}
 ]]></content>
     <tabTrigger>forin</tabTrigger>
     <scope>source.objc</scope>

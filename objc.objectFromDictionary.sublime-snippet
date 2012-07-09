@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
 ${1:<# Class #>} *${2:<# Object #>} = (${1:<# Class #>} *)[${3:<# Dictionary #>} objectForKey:${4:<# Key #>}];
-if ( array ) {
+if ( ${2:<# Object #>} ) {
     ${5:/* statements */}
 } // End: ${2:<# Object #>}${6: ->|}
 ]]></content>
