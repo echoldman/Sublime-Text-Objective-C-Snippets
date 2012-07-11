@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-- (id)initWith${1:Something} ${2:Others};${3:Wrap}
+- (id)initWith${1:Something} ${2:Others};${3: ->|}
 ]]></content>
     <tabTrigger>defInit</tabTrigger>
     <scope>source.objc</scope>

@@ -2,7 +2,7 @@
     <content><![CDATA[
 - (id)initWith${1:Something} ${2:Others}
 {
-    self = [super ${3:[Super init]}];
+    self = [super ${3:<# Super init #>}];
     if ( self ) {
         ${4:/* Custom init here. */}
     }
