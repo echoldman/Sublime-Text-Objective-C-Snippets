@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+${1:<# Class #>} *${2:<# Object #>} = (${1:<# Class #>} *)[${3:<# Array #>} objectAtIndex:(NSUInteger)${4:<# Index #>}];
+if ( ${2:<# Object #>} != nil ) {
+    ${5:/* statements */}
+} // End: ${2:<# Object #>}${6: ->|}
+]]></content>
+    <tabTrigger>objectFromArrayAndCheck</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>
