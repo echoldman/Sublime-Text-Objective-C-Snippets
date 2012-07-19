@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
 else {
-    ${2:/* statements */}
+    ${1:/* Statements */}
 } // End if
-${3: ->|}
+${2: ->|}
 ]]></content>
     <tabTrigger>el</tabTrigger>
     <scope>source.objc</scope>
