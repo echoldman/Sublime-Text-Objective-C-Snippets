@@ -8,6 +8,6 @@
 }
 
 ]]></content>
-    <tabTrigger>dealloc</tabTrigger>
+    <tabTrigger>impDealloc</tabTrigger>
     <scope>source.objc</scope>
 </snippet>
