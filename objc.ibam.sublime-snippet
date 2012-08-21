@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-- (IBAction)${1:Method}:(id)sender;${2:Warp}
+- (IBAction)${1:Method}:(id)sender;${2: ->|}
 ]]></content>
     <tabTrigger>ibam</tabTrigger>
     <scope>source.objc</scope>
