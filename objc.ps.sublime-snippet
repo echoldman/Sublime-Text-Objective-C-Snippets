@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-@property (nonatomic, strong) ${1:<# Class #>} *${2:<# Object #>};${3: ->|}
+@property (nonatomic, strong) ${1:<# Class #>} *${2:<# Object #>};
 ]]></content>
     <tabTrigger>ps</tabTrigger>
     <scope>source.objc</scope>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-[UIImage imageNamed:@"${1:image}"]${2:tab to here}
+[UIImage imageNamed:@"${1:image}"]
 ]]></content>
     <tabTrigger>aimg</tabTrigger>
     <scope>source.objc</scope>

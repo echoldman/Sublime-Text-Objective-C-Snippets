@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-${1:<# Class #>} *${2:<# Object #>} = (${1:<# Class #>} *)[${3:<# Dictionary #>} objectForKey:${4:<# Key #>}];${5: ->|}
+${1:<# Class #>} *${2:<# Object #>} = (${1:<# Class #>} *)[${3:<# Dictionary #>} objectForKey:${4:<# Key #>}];
 ]]></content>
     <tabTrigger>objectFromDictionary</tabTrigger>
     <scope>source.objc</scope>

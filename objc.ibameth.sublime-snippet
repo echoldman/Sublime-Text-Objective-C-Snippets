@@ -3,7 +3,7 @@
 - (IBAction)${1:Method}:(id)sender_
 {
     ${2:/*Insert code here.*/}
-}${3: ->|}
+}
 ]]></content>
     <tabTrigger>ibameth</tabTrigger>
     <scope>source.objc</scope>

@@ -4,7 +4,7 @@ ${1:<# Class #>} *${2:<# Property #>}_ = [[${1:<# Class #>} alloc] ${3:init}];
 if ( ${2:<# Property #>}_ != nil ) {
     ${4:<# Object #>}.${2:<# Property #>} = ${2:<# Property #>}_;
     [${2:<# Property #>}_ release];
-} // End: ${4:<# Object #>}.${2:<# Property #>}${5: ->|}
+} // End: ${4:<# Object #>}.${2:<# Property #>}
 ]]></content>
     <tabTrigger>createObjectToProperty</tabTrigger>
     <scope>source.objc</scope>

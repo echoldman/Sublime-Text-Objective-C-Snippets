@@ -3,7 +3,6 @@
 else {
     ${1:/* Statements */}
 } // End if
-${2: ->|}
 ]]></content>
     <tabTrigger>el</tabTrigger>
     <scope>source.objc</scope>

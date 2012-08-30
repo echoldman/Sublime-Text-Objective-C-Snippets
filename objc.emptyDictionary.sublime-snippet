@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-NSMutableDictionary *${1:dictionary} = [[NSMutableDictionary alloc] init];${2:}
+NSMutableDictionary *${1:dictionary} = [[NSMutableDictionary alloc] init];
 ]]></content>
     <tabTrigger>emptyDictionary</tabTrigger>
     <scope>source.objc</scope>

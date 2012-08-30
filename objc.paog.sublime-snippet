@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-@property (nonatomic, assign, readonly, getter = ${2:<# Object #>}) ${1:<# Class #>} *${2:<# Object #>};
+@property (nonatomic, assign, readonly, getter = ${2:<# Property #>}) ${1:<# Type *#>}${2:<# Property #>};
 ]]></content>
     <tabTrigger>paog</tabTrigger>
     <scope>source.objc</scope>
