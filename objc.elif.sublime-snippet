@@ -2,7 +2,7 @@
     <content><![CDATA[
 else if ( ${1:<# Condition #>} ) {
     ${2:/* Statements */}
-} // End: ${1:<# Condition #>}
+}
 ]]></content>
     <tabTrigger>elif</tabTrigger>
     <scope>source.objc</scope>

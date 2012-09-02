@@ -2,7 +2,7 @@
     <content><![CDATA[
 if ( ${1:<# Condition #>} ) {
     ${2:/* Statements */}
-} // End: ${1:<# Condition #>}
+}
 ]]></content>
     <tabTrigger>if</tabTrigger>
     <scope>source.objc</scope>
