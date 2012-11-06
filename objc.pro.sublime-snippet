@@ -1,7 +1,0 @@
-<snippet>
-    <content><![CDATA[
-@property (nonatomic, retain, readonly) ${1:<# Class #>} *${2:<# Object #>};
-]]></content>
-    <tabTrigger>pro</tabTrigger>
-    <scope>source.objc</scope>
-</snippet>

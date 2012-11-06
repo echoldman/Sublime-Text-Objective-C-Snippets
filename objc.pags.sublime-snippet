@@ -1,7 +1,0 @@
-<snippet>
-    <content><![CDATA[
-@property (nonatomic, assign, getter = ${2:<# Property #>}, setter = set${2:<# Property #>}:) ${1:<# Type #>} ${2:<# Property #>};
-]]></content>
-    <tabTrigger>pags</tabTrigger>
-    <scope>source.objc</scope>
-</snippet>
