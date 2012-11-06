@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+- (IBAction)${1:Method}:(id)sender;
+
+- (IBAction)${1:Method}:(id)sender
+{
+    ${2:/*Insert code here.*/}
+}
+]]></content>
+    <tabTrigger>ibameth_full</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>
