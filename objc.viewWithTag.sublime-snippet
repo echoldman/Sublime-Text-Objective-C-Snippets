@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+${1:<# Class #>} *${2:<# Object #>} = (${1:<# Class #>} *)[${3:<# Superview #>} viewWithTag:${4:<# Tag #>}];
+]]></content>
+    <tabTrigger>viewWithTag</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>
