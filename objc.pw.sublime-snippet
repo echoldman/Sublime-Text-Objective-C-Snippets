@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+@property (nonatomic, weak) ${1:<# Class #>} *${2:<# Object #>};
+]]></content>
+    <tabTrigger>ps</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>
