@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+@interface ${1:<# Interface #>} : ${2:<# Super Interface #>} ${3:<Protocols>}
+
+${4:<# Property List #>}
+
+${5:<# Method List #>}
+
+@end
+]]></content>
+    <tabTrigger>defIF</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>

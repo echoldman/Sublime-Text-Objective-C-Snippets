@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+[${1:object} release];
+]]></content>
+    <tabTrigger>objRelease</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>

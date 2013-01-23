@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+- (void)dealloc
+{
+    ${1:/* Release your members. */}
+
+    [super dealloc];
+}
+
+]]></content>
+    <tabTrigger>impDealloc</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>

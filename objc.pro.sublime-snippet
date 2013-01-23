@@ -2,6 +2,6 @@
     <content><![CDATA[
 @property (nonatomic, retain, readonly) ${1:<# Class #>} *${2:<# Object #>};
 ]]></content>
-    <tabTrigger>prr</tabTrigger>
+    <tabTrigger>pro</tabTrigger>
     <scope>source.objc</scope>
 </snippet>

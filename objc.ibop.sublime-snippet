@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+@property (nonatomic, retain) IBOutlet ${1:<# Class #>} *${2:<# Object #>};
+]]></content>
+    <tabTrigger>ibop</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>

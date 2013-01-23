@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+- (id)initWith${1:Something} ${2:Others};
+]]></content>
+    <tabTrigger>defInit</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>

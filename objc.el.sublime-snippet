@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+else {
+    ${1:/* Statements */}
+}
+]]></content>
+    <tabTrigger>el</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>
