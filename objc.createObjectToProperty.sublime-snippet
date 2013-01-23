@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
 ${1:<# Class #>} *${2:<# Property #>}_ = [[${1:<# Class #>} alloc] ${3:init}];
-if ( ${2:<# Property #>}_ != nil ) {
+if (${2:<# Property #>}_ != nil) {
     ${4:<# Object #>}.${2:<# Property #>} = ${2:<# Property #>}_;
     [${2:<# Property #>}_ release];
 }

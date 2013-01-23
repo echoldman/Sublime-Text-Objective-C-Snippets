@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-for ( ${1:<# Class #>} *${2:<# Object #>} in ${3:<# Collection #>} ) {
+for (${1:<# Class #>} *${2:<# Object #>} in ${3:<# Collection #>}) {
     ${4:/* statements */}
 }
 ]]></content>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-if ( ${1:<# Condition #>} ) {
+if (${1:<# Condition #>}) {
     ${2:/* Statements */}
 }
 ]]></content>

@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
 ${1:<# Class #>} *${2:<# Object #>} = (${1:<# Class #>} *)[${3:<# Dictionary #>} objectForKey:${4:<# Key #>}];
-if ( (${2:<# Object #>} != nil) && [${2:<# Object #>} isKindOfClass:[${1:<# Class #>} class]] ) {
+if ((${2:<# Object #>} != nil) && [${2:<# Object #>} isKindOfClass:[${1:<# Class #>} class]]) {
     ${5:/* statements */}
 }
 ]]></content>

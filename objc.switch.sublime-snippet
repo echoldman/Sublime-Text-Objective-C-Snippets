@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-switch ( ${1:expression} ) {
+switch (${1:expression}) {
     ${2:first case}
     default:${3:}
         break;
