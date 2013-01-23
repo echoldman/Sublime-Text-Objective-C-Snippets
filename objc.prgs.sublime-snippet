@@ -1,7 +1,0 @@
-<snippet>
-    <content><![CDATA[
-@property (nonatomic, retain, getter = ${2:<# Object #>}, setter = set${2:<# Object #>}:) ${1:<# Class #>} *${2:<# Object #>};
-]]></content>
-    <tabTrigger>prgs</tabTrigger>
-    <scope>source.objc</scope>
-</snippet>
