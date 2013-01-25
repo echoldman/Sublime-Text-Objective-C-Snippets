@@ -6,7 +6,6 @@
     if ( self ) {
         ${4:/* Custom init here. */}
     }
-
     return self;
 }
 
