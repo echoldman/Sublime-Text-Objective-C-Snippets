@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+@property (nonatomic, copy) ${1:<# Class #>} *${2:<# Object #>};
+]]></content>
+    <tabTrigger>pc</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>
