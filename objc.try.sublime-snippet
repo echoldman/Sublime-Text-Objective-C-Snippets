@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+@try {
+    ${1:<# statements #>}
+}
+@catch (NSException *exception) {
+    ${2:<# handler #>}
+}
+@finally {
+    ${3:<# statements #>}
+}
+]]></content>
+    <tabTrigger>try</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>
