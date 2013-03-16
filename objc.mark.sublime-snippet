@@ -1,6 +1,10 @@
 <snippet>
     <content><![CDATA[
+<<<<<<< HEAD
 #pragma mark - ${1:Title}
+=======
+#pragma mark ${1:-} ${2:Title}
+>>>>>>> Make 'mark' is better.
 ]]></content>
     <tabTrigger>mark</tabTrigger>
     <scope>source.objc</scope>
