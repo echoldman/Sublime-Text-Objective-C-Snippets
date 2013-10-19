@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[CGSizeMake(${1:float width}, ${2:float height})]]></content>
+    <tabTrigger>CGSizeMake</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>
