@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
++ (${1:void})${2:classMethod}:(${3:type})${4:param} ${5:others}
+{
+    ${6:}
+}
+${7:}
+
+]]></content>
+    <tabTrigger>classMethod</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>
