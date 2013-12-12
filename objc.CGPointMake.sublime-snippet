@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[CGPointMake(${1:float x}, ${2:float y})]]></content>
-    <tabTrigger>CGPointMake</tabTrigger>
-    <scope>source.objc</scope>
-</snippet>
