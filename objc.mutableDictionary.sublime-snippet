@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+NSMutableDictionary *${1:dict} = [NSMutableDictionary dictionary${2:WithCapacity:${3:capacity}}];
+${4:dictSetObjectForKey}
+]]></content>
+    <tabTrigger>mutableDictionary</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>

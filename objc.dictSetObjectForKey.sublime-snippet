@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+[${1:dict} setObject:${2:object} forKey:${3:key}];
+${4:dictSetObjectForKey}
+]]></content>
+    <tabTrigger>dictSetObjectForKey</tabTrigger>
+    <scope>source.objc</scope>
+</snippet>
