@@ -1,7 +1,0 @@
-<snippet>
-    <content><![CDATA[
-@synthesize ${1:Property} = _${1:Property};
-]]></content>
-    <tabTrigger>s</tabTrigger>
-    <scope>source.objc</scope>
-</snippet>
